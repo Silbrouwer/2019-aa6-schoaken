@@ -125,7 +125,7 @@ GameObject:
   - component: {fileID: 29802968}
   - component: {fileID: 29802967}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B5
+  m_Name: Schaakbordpatroon E6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -653,7 +653,7 @@ GameObject:
   - component: {fileID: 117020006}
   - component: {fileID: 117020005}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C5
+  m_Name: Schaakbordpatroon E7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -737,7 +737,7 @@ GameObject:
   - component: {fileID: 133478269}
   - component: {fileID: 133478268}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A7
+  m_Name: Schaakbordpatroon G8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -926,7 +926,7 @@ GameObject:
   - component: {fileID: 243963418}
   - component: {fileID: 243963417}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C3
+  m_Name: Schaakbordpatroon C7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1009,7 +1009,7 @@ GameObject:
   - component: {fileID: 250046897}
   - component: {fileID: 250046896}
   m_Layer: 0
-  m_Name: Cijfers
+  m_Name: Letters
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1022,7 +1022,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 250046895}
-  m_Text: 1  2  3  4  5  6  7  8
+  m_Text: A  B C  D E  F G H
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 0
@@ -1212,7 +1212,7 @@ GameObject:
   - component: {fileID: 267200408}
   - component: {fileID: 267200407}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E1
+  m_Name: Schaakbordpatroon A4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1296,7 +1296,7 @@ GameObject:
   - component: {fileID: 288842977}
   - component: {fileID: 288842976}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C6
+  m_Name: Schaakbordpatroon F6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1380,7 +1380,7 @@ GameObject:
   - component: {fileID: 304289895}
   - component: {fileID: 304289894}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H2
+  m_Name: Schaakbordpatroon B1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1464,7 +1464,7 @@ GameObject:
   - component: {fileID: 341690336}
   - component: {fileID: 341690335}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G5
+  m_Name: Schaakbordpatroon E2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1704,7 +1704,7 @@ GameObject:
   - component: {fileID: 406802483}
   - component: {fileID: 406802482}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E2
+  m_Name: Schaakbordpatroon B4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1882,7 +1882,7 @@ GameObject:
   - component: {fileID: 444559085}
   - component: {fileID: 444559084}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A8
+  m_Name: Schaakbordpatroon H8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2182,7 +2182,7 @@ GameObject:
   - component: {fileID: 490039200}
   - component: {fileID: 490039199}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H5
+  m_Name: Schaakbordpatroon E1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2313,7 +2313,7 @@ GameObject:
   - component: {fileID: 557160618}
   - component: {fileID: 557160617}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A6
+  m_Name: Schaakbordpatroon F8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2397,7 +2397,7 @@ GameObject:
   - component: {fileID: 562854484}
   - component: {fileID: 562854483}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E8
+  m_Name: Schaakbordpatroon H4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2481,7 +2481,7 @@ GameObject:
   - component: {fileID: 589459976}
   - component: {fileID: 589459975}
   m_Layer: 0
-  m_Name: Schaakbordpatroon F5
+  m_Name: Schaakbordpatroon E3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2649,7 +2649,7 @@ GameObject:
   - component: {fileID: 664770150}
   - component: {fileID: 664770149}
   m_Layer: 0
-  m_Name: Schaakbordpatroon F4
+  m_Name: Schaakbordpatroon D3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2733,7 +2733,7 @@ GameObject:
   - component: {fileID: 729544908}
   - component: {fileID: 729544907}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G8
+  m_Name: Schaakbordpatroon H2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2948,7 +2948,7 @@ GameObject:
   - component: {fileID: 789621555}
   - component: {fileID: 789621554}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A2
+  m_Name: Schaakbordpatroon B8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3032,7 +3032,7 @@ GameObject:
   - component: {fileID: 794632969}
   - component: {fileID: 794632968}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B4
+  m_Name: Schaakbordpatroon D7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3163,7 +3163,7 @@ GameObject:
   - component: {fileID: 811529140}
   - component: {fileID: 811529139}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E3
+  m_Name: Schaakbordpatroon C4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3247,7 +3247,7 @@ GameObject:
   - component: {fileID: 813281562}
   - component: {fileID: 813281561}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H6
+  m_Name: Schaakbordpatroon F1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3378,7 +3378,7 @@ GameObject:
   - component: {fileID: 837191431}
   - component: {fileID: 837191430}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B3
+  m_Name: Schaakbordpatroon C6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3533,7 +3533,7 @@ GameObject:
   - component: {fileID: 853292147}
   - component: {fileID: 853292146}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D2
+  m_Name: Schaakbordpatroon B5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3785,7 +3785,7 @@ GameObject:
   - component: {fileID: 914040457}
   - component: {fileID: 914040456}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H3
+  m_Name: Schaakbordpatroon C1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4112,7 +4112,7 @@ GameObject:
   - component: {fileID: 972507439}
   - component: {fileID: 972507438}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B7
+  m_Name: Schaakbordpatroon G7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4243,7 +4243,7 @@ GameObject:
   - component: {fileID: 999049575}
   - component: {fileID: 999049574}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D3
+  m_Name: Schaakbordpatroon C5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4393,7 +4393,7 @@ GameObject:
   - component: {fileID: 1080382604}
   - component: {fileID: 1080382603}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D8
+  m_Name: Schaakbordpatroon H5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4477,7 +4477,7 @@ GameObject:
   - component: {fileID: 1090350976}
   - component: {fileID: 1090350975}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D4
+  m_Name: Schaakbordpatroon D5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4561,7 +4561,7 @@ GameObject:
   - component: {fileID: 1095774262}
   - component: {fileID: 1095774261}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H8
+  m_Name: Schaakbordpatroon H1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4645,7 +4645,7 @@ GameObject:
   - component: {fileID: 1099946900}
   - component: {fileID: 1099946899}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G2
+  m_Name: Schaakbordpatroon B2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4869,7 +4869,7 @@ GameObject:
   - component: {fileID: 1148057458}
   - component: {fileID: 1148057457}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B2
+  m_Name: Schaakbordpatroon B7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4953,7 +4953,7 @@ GameObject:
   - component: {fileID: 1148958223}
   - component: {fileID: 1148958222}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D7
+  m_Name: Schaakbordpatroon G5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5037,7 +5037,7 @@ GameObject:
   - component: {fileID: 1165591307}
   - component: {fileID: 1165591306}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D5
+  m_Name: Schaakbordpatroon E5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5205,7 +5205,7 @@ GameObject:
   - component: {fileID: 1187922313}
   - component: {fileID: 1187922312}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C7
+  m_Name: Schaakbordpatroon G6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5289,7 +5289,7 @@ GameObject:
   - component: {fileID: 1208988438}
   - component: {fileID: 1208988437}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H7
+  m_Name: Schaakbordpatroon G1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5373,7 +5373,7 @@ GameObject:
   - component: {fileID: 1227353105}
   - component: {fileID: 1227353104}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H1
+  m_Name: Schaakbordpatroon A1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5457,7 +5457,7 @@ GameObject:
   - component: {fileID: 1233203586}
   - component: {fileID: 1233203585}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C8
+  m_Name: Schaakbordpatroon H6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5541,7 +5541,7 @@ GameObject:
   - component: {fileID: 1253165391}
   - component: {fileID: 1253165390}
   m_Layer: 0
-  m_Name: Schaakbordpatroon H4
+  m_Name: Schaakbordpatroon D1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5625,7 +5625,7 @@ GameObject:
   - component: {fileID: 1283193895}
   - component: {fileID: 1283193894}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G1
+  m_Name: Schaakbordpatroon A2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5755,7 +5755,7 @@ GameObject:
   - component: {fileID: 1287757564}
   - component: {fileID: 1287757563}
   m_Layer: 0
-  m_Name: Letters
+  m_Name: Cijfers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5768,21 +5768,21 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1287757562}
-  m_Text: 'A
+  m_Text: '8
 
-    B
+    7
 
-    C
+    6
 
-    D
+    5
 
-    E
+    4
 
-    F
+    3
 
-    G
+    2
 
-    H
+    1
 
 '
   m_OffsetZ: 0
@@ -5857,7 +5857,7 @@ GameObject:
   - component: {fileID: 1296784484}
   - component: {fileID: 1296784483}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E4
+  m_Name: Schaakbordpatroon D4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5941,7 +5941,7 @@ GameObject:
   - component: {fileID: 1357703883}
   - component: {fileID: 1357703882}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E6
+  m_Name: Schaakbordpatroon F4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6025,7 +6025,7 @@ GameObject:
   - component: {fileID: 1365091557}
   - component: {fileID: 1365091556}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G7
+  m_Name: Schaakbordpatroon G2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6156,7 +6156,7 @@ GameObject:
   - component: {fileID: 1382033838}
   - component: {fileID: 1382033837}
   m_Layer: 0
-  m_Name: Schaakbordpatroon F7
+  m_Name: Schaakbordpatroon G3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6240,7 +6240,7 @@ GameObject:
   - component: {fileID: 1385883752}
   - component: {fileID: 1385883751}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D1
+  m_Name: Schaakbordpatroon A5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6455,7 +6455,7 @@ GameObject:
   - component: {fileID: 1452130792}
   - component: {fileID: 1452130791}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B1
+  m_Name: Schaakbordpatroon A7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6717,7 +6717,7 @@ GameObject:
   - component: {fileID: 1466219390}
   - component: {fileID: 1466219389}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C2
+  m_Name: Schaakbordpatroon B6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7082,7 +7082,7 @@ GameObject:
   - component: {fileID: 1561209906}
   - component: {fileID: 1561209905}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A5
+  m_Name: Schaakbordpatroon E8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7166,7 +7166,7 @@ GameObject:
   - component: {fileID: 1561440624}
   - component: {fileID: 1561440623}
   m_Layer: 0
-  m_Name: Schaakbordpatroon D6
+  m_Name: Schaakbordpatroon F5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7414,7 +7414,7 @@ GameObject:
   - component: {fileID: 1614020264}
   - component: {fileID: 1614020263}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G6
+  m_Name: Schaakbordpatroon F2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7582,7 +7582,7 @@ GameObject:
   - component: {fileID: 1632026073}
   - component: {fileID: 1632026072}
   m_Layer: 0
-  m_Name: 'Schaakbordpatroon F8 '
+  m_Name: Schaakbordpatroon H3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7666,7 +7666,7 @@ GameObject:
   - component: {fileID: 1637663880}
   - component: {fileID: 1637663879}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G4
+  m_Name: Schaakbordpatroon D2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7750,7 +7750,7 @@ GameObject:
   - component: {fileID: 1712756385}
   - component: {fileID: 1712756384}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E7
+  m_Name: Schaakbordpatroon G4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7834,7 +7834,7 @@ GameObject:
   - component: {fileID: 1746040995}
   - component: {fileID: 1746040994}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C1
+  m_Name: Schaakbordpatroon A6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7918,7 +7918,7 @@ GameObject:
   - component: {fileID: 1773838559}
   - component: {fileID: 1773838558}
   m_Layer: 0
-  m_Name: Schaakbordpatroon E5
+  m_Name: Schaakbordpatroon E4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8002,7 +8002,7 @@ GameObject:
   - component: {fileID: 1790894470}
   - component: {fileID: 1790894469}
   m_Layer: 0
-  m_Name: Schaakbordpatroon F3
+  m_Name: Schaakbordpatroon C3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8086,7 +8086,7 @@ GameObject:
   - component: {fileID: 1794285362}
   - component: {fileID: 1794285361}
   m_Layer: 0
-  m_Name: Schaakbordpatroon F2
+  m_Name: Schaakbordpatroon B3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8217,7 +8217,7 @@ GameObject:
   - component: {fileID: 1806576141}
   - component: {fileID: 1806576140}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B6
+  m_Name: Schaakbordpatroon F7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8371,7 +8371,7 @@ GameObject:
   - component: {fileID: 1825623513}
   - component: {fileID: 1825623512}
   m_Layer: 0
-  m_Name: Schaakbordpatroon C4
+  m_Name: Schaakbordpatroon D6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8502,7 +8502,7 @@ GameObject:
   - component: {fileID: 1877312890}
   - component: {fileID: 1877312889}
   m_Layer: 0
-  m_Name: Schaakbordpatroon G3
+  m_Name: Schaakbordpatroon C2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8586,7 +8586,7 @@ GameObject:
   - component: {fileID: 1895785667}
   - component: {fileID: 1895785666}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A3
+  m_Name: Schaakbordpatroon C8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8670,7 +8670,7 @@ GameObject:
   - component: {fileID: 1904187526}
   - component: {fileID: 1904187525}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A4
+  m_Name: Schaakbordpatroon D8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9045,7 +9045,7 @@ GameObject:
   - component: {fileID: 1958844851}
   - component: {fileID: 1958844850}
   m_Layer: 0
-  m_Name: Schaakbordpatroon F1
+  m_Name: Schaakbordpatroon A3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9213,7 +9213,7 @@ GameObject:
   - component: {fileID: 1967646236}
   - component: {fileID: 1967646235}
   m_Layer: 0
-  m_Name: Schaakbordpatroon B8
+  m_Name: Schaakbordpatroon H7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9406,7 +9406,7 @@ GameObject:
   - component: {fileID: 2052548002}
   - component: {fileID: 2052548001}
   m_Layer: 0
-  m_Name: Schaakbordpatroon F6
+  m_Name: Schaakbordpatroon F3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9747,7 +9747,7 @@ GameObject:
   - component: {fileID: 2111049679}
   - component: {fileID: 2111049678}
   m_Layer: 0
-  m_Name: Schaakbordpatroon A1
+  m_Name: Schaakbordpatroon A8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

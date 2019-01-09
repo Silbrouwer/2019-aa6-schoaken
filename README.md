@@ -42,4 +42,9 @@ ARCHITECTUUR:
 
 De architect is verantwoordelijk voor een logische opbouw van het spel. Met de architectuur kan de rest van het team aan de slag met een handige opbouw. Bij dit spel hebben wij een schema van het spel en de spelregels gemaakt. Dit komt bijna overeen met de architectuur. Wij hebben bij dit schema ook nog wat extra architectuur gevoegd zodat dit schema de volledige architectuur bevat. Dit schema kan je hier vinden, bij de pagina: 'regels per schaakstuk'.
 
+Dit is onze architect:
+(https://github.com/Silbrouwer/2019-aa6-schoaken/code/JanBrugklas)
 
+REGELS PER SCHAAKSTUK:
+
+Wij hebben de regels per schaakstuk handig in een schema beschreven. Dit is tevens ook een groot deel van de architectuur.

@@ -1,6 +1,6 @@
 # 2019-aa6-schoaken
 
-HOME:
+**HOME:**
 Welkom bij de documentatie van het informatica-project "schoaken".
 
 Dit project is gemaakt door:
